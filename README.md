@@ -18,7 +18,9 @@ pip install -r requirements.txt
 3. Set up env
 
 Obtain a Google API Key from here: https://aistudio.google.com/app/apikey
+
 Obtain a Stable Diffusion API Key from here: https://platform.stability.ai/account/keys
+
 Edit the .env file
 
 ## Usage
